@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd
-
-">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>items</key>
@@ -13,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://hjyl.syok65.com:81/iOS.hjylresigned.ipa</string>
+                    <string>http://116.247.116.41:8881/app/123.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -31,6 +29,3 @@
     </array>
 </dict>
 </plist>
-————————————————
-版权声明：本文为CSDN博主「cs869133193」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/cs869133193/article/details/82022080
